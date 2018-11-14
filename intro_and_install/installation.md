@@ -9,4 +9,9 @@ Installing Hadoop
 * Next step is to install Horton Works HDP
 * This provides a structure for distributed data, and is known as an `image`
 * Can also use Cloudera
-* **LEARN MORE ABOUT WHAT HDP ACTUALLY DOES**
+
+## HortonWorks HDP
+
+* HortonWorks HDP is a disk image
+  * An instance of an operating system already set up and configured, and ready to launch
+  * OS in this case: **CENT OS**
